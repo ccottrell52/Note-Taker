@@ -40,3 +40,7 @@ deployed using heroku.
 ![alt text](public/assets/images/Note%20Taker%202.jpg)
 
 
+
+App can be viewed here  https://notestaker52.herokuapp.com/
+
+
