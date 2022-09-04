@@ -17,7 +17,7 @@ deployed using heroku.
 
 
 
-![alt text](Note Taker.jpg)
+![alt text](public\assets\images\Note Taker.jpg)
 
 
 
@@ -37,6 +37,6 @@ deployed using heroku.
 
 
 
-![alt text](Note Taker 2.jpg)
+![alt text](public\assets\images\Note Taker 2.jpg)
 
 
