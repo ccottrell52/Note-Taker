@@ -8,7 +8,24 @@ deployed using heroku.
 
 
 
+
+
+
+
+
+
+
+
+
 ![alt text](Note Taker.jpg)
+
+
+
+
+
+
+
+
 
 
 
