@@ -5,3 +5,21 @@ type in any tasks or reminders and save them to the webpage to help you keep tra
 deployed using heroku. 
 
 
+
+
+
+![alt text](Note Taker.jpg)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](Note Taker 2.jpg)
+
+
